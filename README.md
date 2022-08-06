@@ -13,7 +13,7 @@ This repository is the chrome plug-in. It works with our [website server]().
 
 1. Clone the repository to the local computer.
 ```
-$ git
+$ git https://github.com/xrma99/ALICE_plugin.git
 ```
 2. Open your Chrome browser and go to [Extensions](chrome://extensions/).
 3. Enable **Developer mode**
