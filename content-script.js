@@ -10,7 +10,7 @@ function Panel() {
     this.bind()
 }
 
-//在Panel的原型链上创建一个create方法(作用:生成一个div元素,innerHTML是翻译面板的HTML内容)
+// Create a panel (a div element)
 Panel.prototype.create = function () {
 
     // Create a div element on the page called container.
