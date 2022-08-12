@@ -5,7 +5,7 @@ Nowadays, Majority of the U.S. adults (62%) depend on news primarily sourced fro
 
 ALICE (Advanced Language Interpretation and Classification Environment) is the capstone project of MITS (Master of Information Technology Strategy) in Carnegie Mellon University done by [Xinran Ma](https://github.com/xrma99), [Prakhar Agrawal](https://github.com/prakhariitd), [Junyi Guo](https://github.com/LilyGuo305) and [Manisha Georgina](https://github.com/3eveE-git). The deliverables is an interactive and real-time website server plus chrome plug-in toolkit which achieves automatic text classification. The project aims to help users recognize misinformation and disinformation quickly.
 
-This repository is the chrome plug-in. It works with our [website server]().
+This repository is the chrome plug-in. It works with our [website server](https://github.com/prakhariitd/ALICE).
 
 ### User's Guidance
 
