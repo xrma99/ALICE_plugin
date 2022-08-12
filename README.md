@@ -35,4 +35,6 @@ Then when you select the [text] you want to classify, the real-time classificati
 
 **It would be really appreciated if you give your feedback on whether you agree with the classification!**
 
+Before you use, please change the url link in the background.js and content-script.js to the server's link.
+
 Acknowledgement: The code is written on the basis of [CaTmmao](https://github.com/CaTmmao/chrome-extension-translate)'s work.
